@@ -1,4 +1,3 @@
-## React Projects Starter APP
-# react-small-projects
-# react-small-projects
-# react-small-projects
+## Lorem - Ipsum 
+
+Tired of old lorem ipsum? Try this instead
